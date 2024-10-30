@@ -4,4 +4,4 @@ pip install requests
 python cookie.py
 
 thats all you shoul have to do if u need more help join the server and create a ticket
-https://discord.gg/E73aTebqG8
+https://discord.gg/zerx
